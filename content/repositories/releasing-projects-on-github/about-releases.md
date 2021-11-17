@@ -16,7 +16,7 @@ versions:
   ghec: '*'
 topics:
   - Repositories
----
+--- 
 ## About releases
 
 {% ifversion fpt or ghec or ghes > 3.4 or ghae-issue-4974 %}
